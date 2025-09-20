@@ -1,0 +1,17 @@
+{
+	id: "c3533864-d343-4e98-bc3d-653a0b44edbd"
+	type: "player"
+	player_name: "p1ane"
+	ranks: {
+		c3533864-d343-4e98-bc3d-653a0b44edbd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "p1ane"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

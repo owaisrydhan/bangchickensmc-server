@@ -1,0 +1,17 @@
+{
+	id: "680ac1e4-cbc1-4d0e-87fa-d901854a825c"
+	type: "player"
+	player_name: "MinrorityKilla"
+	ranks: {
+		680ac1e4-cbc1-4d0e-87fa-d901854a825c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MinrorityKilla"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF67"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

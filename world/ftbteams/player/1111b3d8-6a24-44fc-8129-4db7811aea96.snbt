@@ -1,0 +1,17 @@
+{
+	id: "1111b3d8-6a24-44fc-8129-4db7811aea96"
+	type: "player"
+	player_name: "fx91"
+	ranks: {
+		1111b3d8-6a24-44fc-8129-4db7811aea96: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "fx91"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF67"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

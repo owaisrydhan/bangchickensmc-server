@@ -1,0 +1,17 @@
+{
+	id: "5953baed-ad3d-4406-8b28-242da7139a9b"
+	type: "player"
+	player_name: "MotoFrxsh"
+	ranks: {
+		5953baed-ad3d-4406-8b28-242da7139a9b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MotoFrxsh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

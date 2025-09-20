@@ -1,0 +1,27 @@
+
+#Configuraciones de Zoom del Mod CinematicZoom
+[zoom]
+	#Factor de zoom predeterminado para la vista en primera persona. Ahora sin límites.
+	#Range: -Infinity ~ Infinity
+	firstPersonDefaultZoom = 0.2
+	#Factor de zoom predeterminado para las vistas en tercera persona. Ahora sin límites.
+	#Range: -Infinity ~ Infinity
+	thirdPersonDefaultZoom = 0.65
+	#Factor de zoom mínimo (zoom más grande) que se puede alcanzar. Ahora sin límites.
+	#Range: -Infinity ~ Infinity
+	minZoomFactor = 0.1
+	#Factor de zoom máximo (zoom más pequeño) que se puede alcanzar. Ahora sin límites.
+	#Range: -Infinity ~ Infinity
+	maxZoomFactor = 1.5
+	#Cantidad en que el factor de zoom cambia por cada 'paso' de la rueda del mouse.
+	#Range: 0.001 ~ 1.0
+	zoomStep = 0.05
+	#Velocidad de suavizado del zoom al usar la rueda del mouse (0.001 = muy lento, 1.0 = instantáneo).
+	#Range: 0.001 ~ 1.0
+	smoothZoomSpeed = 0.4
+	#Duración de la animación de entrada y salida del zoom y las barras en milisegundos.
+	#Range: 100 ~ 5000
+	animationDurationMs = 500
+	#Habilitar sonidos de zoom (activar/desactivar). Si está desactivado, no se reproducirán sonidos al hacer zoom.
+	enableZoomSounds = true
+

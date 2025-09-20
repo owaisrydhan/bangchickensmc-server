@@ -1,0 +1,17 @@
+{
+	id: "90692cf1-7251-4473-b4c5-736a2a53c3a6"
+	type: "player"
+	player_name: "breadyz"
+	ranks: {
+		90692cf1-7251-4473-b4c5-736a2a53c3a6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "breadyz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
