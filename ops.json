@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1111b3d86a2444fc81294db7811aea96",
+    "name": "fx91",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
